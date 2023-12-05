@@ -9,8 +9,9 @@
 * 사용 데이터: [2018년 국적 및 이민 인구조사 데이터(Nationalité et immigration en 2018 )](https://www.insee.fr/fr/statistiques/5395871?sommaire=5395920)
 
   
-### (1) 데이터 전처리
-### (2) EDA를 활용한 프랑스 노동 시장 인구 분석
+### (1) EDA를 활용한 프랑스 노동 시장 인구 분석
 ### (3) 데이터 분석 개요
 * glm과 glmm을 사용한 이유
 ### (4) 데이터 분석 결과
+---
+## 연구 한계
